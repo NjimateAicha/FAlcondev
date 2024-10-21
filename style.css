@@ -1,0 +1,755 @@
+.one-page-portfolio {
+    background-color: #111111;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .one-page-portfolio .div {
+    background-color: #111111;
+    width: 1440px;
+    height: 5300px;
+    position: relative;
+  }
+  
+  .one-page-portfolio .techno {
+    display: flex;
+    flex-direction: column;
+    width: 1376px;
+    align-items: center;
+    justify-content: center;
+    gap: 34px;
+    padding: 40px 45px;
+    position: absolute;
+    top: 3331px;
+    left: 32px;
+    background-color: #1c1b1d;
+    border-radius: 42px;
+  }
+  
+  .one-page-portfolio .header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .one-page-portfolio .text-wrapper {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Glancyr-Medium", Helvetica;
+    font-weight: 500;
+    color: #f16022;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 48px;
+  }
+  
+  .one-page-portfolio .we-are-a-passionate {
+    position: relative;
+    align-self: stretch;
+    font-family: "Glancyr-Light", Helvetica;
+    font-weight: 300;
+    color: #bdbaba;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 24px;
+  }
+  
+  .one-page-portfolio .frame {
+    display: flex;
+    width: 1227px;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .one-page-portfolio .angular-svgrepo-com {
+    position: relative;
+    flex: 0 0 auto;
+    height: 98.45px;
+  }
+  
+  .one-page-portfolio .PRICING {
+    display: flex;
+    flex-direction: column;
+    width: 1376px;
+    align-items: center;
+    justify-content: center;
+    gap: 34px;
+    padding: 40px 45px;
+    position: absolute;
+    top: 3794px;
+    left: 32px;
+    background-color: #1c1b1d;
+    border-radius: 42px;
+  }
+  
+  .one-page-portfolio .about-us {
+    display: flex;
+    width: 1378px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 32px;
+    position: absolute;
+    top: 2985px;
+    left: 30px;
+    background-color: #1c1b1d;
+    border-radius: 42px;
+  }
+  
+  .one-page-portfolio .desc-btn {
+    display: flex;
+    height: 275px;
+    align-items: flex-start;
+    gap: 32px;
+    padding: 0px 24px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+  }
+  
+  .one-page-portfolio .description {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 24px;
+    padding: 32px;
+    position: relative;
+    flex: 1;
+    align-self: stretch;
+    flex-grow: 1;
+  }
+  
+  .one-page-portfolio .text-wrapper-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -22.00px;
+    font-family: "Glancyr-Medium", Helvetica;
+    font-weight: 500;
+    color: #ff5f00;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 48px;
+  }
+  
+  .one-page-portfolio .p {
+    width: 813px;
+    margin-bottom: -20.00px;
+    font-size: 24px;
+    line-height: 24px;
+    position: relative;
+    font-family: "Glancyr-Light", Helvetica;
+    font-weight: 300;
+    color: #bdbaba;
+    letter-spacing: 0;
+  }
+  
+  .one-page-portfolio .falcon-logo-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 273px;
+    align-items: flex-start;
+    gap: 10px;
+    position: relative;
+  }
+  
+  .one-page-portfolio .falcon-logo {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    height: 143px;
+    object-fit: cover;
+  }
+  
+  .one-page-portfolio .projects {
+    display: flex;
+    flex-direction: column;
+    width: 1378px;
+    height: 1028px;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+    padding: 14px 0px;
+    position: absolute;
+    top: 1929px;
+    left: 30px;
+    background-color: #1c1b1d;
+    border-radius: 42px;
+  }
+  
+  .one-page-portfolio .content {
+    display: flex;
+    flex-direction: column;
+    width: 1378px;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 14px 0px;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 42px;
+  }
+  
+  .one-page-portfolio .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .one-page-portfolio .frame-2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 44px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .one-page-portfolio .SLIDER {
+    position: relative;
+    width: 1240px;
+    height: 781px;
+    border-radius: 42px;
+    background-image: url(https://c.animaapp.com/H9cfT1X2/img/slider.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .one-page-portfolio .rectangle-wrapper {
+    position: relative;
+    width: 10px;
+    height: 685px;
+    background-color: #464547;
+    border-radius: 44px;
+  }
+  
+  .one-page-portfolio .rectangle {
+    height: 171px;
+    background-color: #d9d9d9;
+    border-radius: 44px;
+  }
+  
+  .one-page-portfolio .desc-btn-2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 102px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .one-page-portfolio .description-2 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .one-page-portfolio .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Glancyr-Medium", Helvetica;
+    font-weight: 500;
+    color: #ff5f00;
+    font-size: 44px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 44px;
+  }
+  
+  .one-page-portfolio .text-wrapper-4 {
+    position: relative;
+    width: 393px;
+    margin-top: -1px;
+    font-family: "Glancyr-Light", Helvetica;
+    font-weight: 300;
+    color: #bdbaba;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 24px;
+  }
+  
+  .one-page-portfolio .frame-3 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 16px 29px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #ff5f00;
+    border-radius: 999px;
+  }
+  
+  .one-page-portfolio .get-in-touch {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .one-page-portfolio .heroicons-mini-arrow {
+    position: relative;
+    width: 32px;
+    height: 32px;
+    background-image: url(https://c.animaapp.com/H9cfT1X2/img/heroicons-mini-arrow-up-right-3.svg);
+    background-size: 100% 100%;
+  }
+  
+  .one-page-portfolio .what-you-will-get {
+    display: flex;
+    flex-direction: column;
+    width: 1378px;
+    height: 1024px;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 14px 0px;
+    position: absolute;
+    top: 877px;
+    left: 31px;
+    background-color: #1b1a1d;
+    border-radius: 42px;
+  }
+  
+  .one-page-portfolio .frame-4 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    position: relative;
+    flex: 1;
+    align-self: stretch;
+    width: 100%;
+    flex-grow: 1;
+  }
+  
+  .one-page-portfolio .frame-5 {
+    display: flex;
+    flex-direction: column;
+    height: 289px;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 10px;
+    padding: 0px 208px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .one-page-portfolio .text-wrapper-5 {
+    position: relative;
+    width: fit-content;
+    font-family: "Glancyr-Medium", Helvetica;
+    font-weight: 500;
+    color: #ff5f00;
+    font-size: 44px;
+    letter-spacing: 0;
+    line-height: 44px;
+  }
+  
+  .one-page-portfolio .text-wrapper-6 {
+    position: relative;
+    align-self: stretch;
+    font-family: "Glancyr-Light", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 16px;
+  }
+  
+  .one-page-portfolio .frame-6 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 57px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .one-page-portfolio .frame-7 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .one-page-portfolio .frame-8 {
+    display: flex;
+    flex-direction: column;
+    width: 303px;
+    height: 231px;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 0px 12px;
+    position: relative;
+    border-radius: 24px;
+    border: 2px solid;
+    border-color: #bcb8b8;
+  }
+  
+  .one-page-portfolio .heroicons-outline {
+    position: relative;
+    width: 85px;
+    height: 85px;
+    background-image: url(https://c.animaapp.com/H9cfT1X2/img/heroicons-outline-arrow-down-on-square-7.svg);
+    background-size: 100% 100%;
+  }
+  
+  .one-page-portfolio .div-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 9px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .one-page-portfolio .text-wrapper-7 {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: "hero-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 32px;
+  }
+  
+  .one-page-portfolio .heroicons-outline-2 {
+    position: relative;
+    width: 85px;
+    height: 85px;
+    background-image: url(https://c.animaapp.com/H9cfT1X2/img/heroicons-outline-squares-plus-2.svg);
+    background-size: 100% 100%;
+  }
+  
+  .one-page-portfolio .hero {
+    position: absolute;
+    width: 1376px;
+    height: 689px;
+    top: 188px;
+    left: 32px;
+  }
+  
+  .one-page-portfolio .overlap {
+    position: relative;
+    height: 839px;
+    top: -177px;
+  }
+  
+  .one-page-portfolio .subtract {
+    position: absolute;
+    width: 1375px;
+    height: 839px;
+    top: 0;
+    left: 0;
+  }
+  
+  .one-page-portfolio .overlap-group-wrapper {
+    position: absolute;
+    width: 1376px;
+    height: 672px;
+    top: 167px;
+    left: 0;
+  }
+  
+  .one-page-portfolio .overlap-group {
+    position: relative;
+    width: 1318px;
+    height: 648px;
+    left: 24px;
+    background-image: url(https://c.animaapp.com/H9cfT1X2/img/subtract-2.svg);
+    background-size: 100% 100%;
+  }
+  
+  .one-page-portfolio .CONTENT {
+    flex-direction: column;
+    width: 1318px;
+    height: 648px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+  
+  .one-page-portfolio .content-2 {
+    gap: 28px;
+    padding: 0px 28px;
+    flex: 1;
+    align-self: stretch;
+    width: 100%;
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+  
+  .one-page-portfolio .hero-text {
+    display: flex;
+    flex-direction: column;
+    width: 862px;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 34px;
+    padding: 0px 0px 0px 32px;
+    position: relative;
+    align-self: stretch;
+  }
+  
+  .one-page-portfolio .img {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .one-page-portfolio .we-are-a-passionate-2 {
+    align-self: stretch;
+    font-size: 16px;
+    line-height: 16px;
+    position: relative;
+    font-family: "Glancyr-Light", Helvetica;
+    font-weight: 300;
+    color: #bdbaba;
+    letter-spacing: 0;
+  }
+  
+  .one-page-portfolio .frame-wrapper {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 26px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .one-page-portfolio .frame-9 {
+    display: flex;
+    width: 204px;
+    height: 54px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 16px 29px;
+    position: relative;
+    background-color: #ff5f00;
+    border-radius: 999px;
+  }
+  
+  .one-page-portfolio .text-wrapper-8 {
+    position: relative;
+    width: fit-content;
+    margin-top: -2.00px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #f1eded;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .one-page-portfolio .heroicons-mini-arrow-2 {
+    position: relative;
+    width: 32px;
+    height: 32px;
+    margin-top: -5.00px;
+    margin-bottom: -5.00px;
+    background-image: url(https://c.animaapp.com/H9cfT1X2/img/heroicons-mini-arrow-up-right-4.svg);
+    background-size: 100% 100%;
+  }
+  
+  .one-page-portfolio .falcon-image {
+    display: flex;
+    width: 293px;
+    height: 462px;
+    align-items: center;
+    gap: 10px;
+    position: relative;
+    background-color: #ff5f00;
+    border-radius: 32px;
+  }
+  
+  .one-page-portfolio .low-angle-view-bald {
+    position: relative;
+    width: 306px;
+    height: 628px;
+    margin-top: -83.00px;
+    margin-bottom: -83.00px;
+    margin-right: -13.00px;
+    object-fit: cover;
+  }
+  
+  .one-page-portfolio .header-2 {
+    position: absolute;
+    width: 999px;
+    height: 76px;
+    top: 11px;
+    left: 157px;
+  }
+  
+  .one-page-portfolio .overlap-2 {
+    position: absolute;
+    width: 976px;
+    height: 64px;
+    top: 12px;
+    left: 73px;
+  }
+  
+  .one-page-portfolio .nav {
+    display: flex;
+    width: 976px;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    top: 3px;
+    left: 0;
+  }
+  
+  .one-page-portfolio .left-nav {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 124px;
+    padding: 10px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .one-page-portfolio .work {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px 22px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #ff5f00;
+    border-radius: 24px;
+  }
+  
+  .one-page-portfolio .projects-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #100e0e;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .one-page-portfolio .work-2 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px 22px;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 24px;
+  }
+  
+  .one-page-portfolio .text-wrapper-9 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .one-page-portfolio .right-nav {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 124px;
+    padding: 10px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .one-page-portfolio .group {
+    position: absolute;
+    width: 73px;
+    height: 38px;
+    top: 0;
+    left: 466px;
+  }
+  
+  .one-page-portfolio .contact {
+    display: flex;
+    width: 163px;
+    height: 60px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 12px 14px;
+    position: absolute;
+    top: -2px;
+    left: 1082px;
+    border-radius: 12px 42px 12px 999px;
+    border: 1.5px solid;
+    border-color: #ff5f00;
+  }
+  
+  .one-page-portfolio .contact-2 {
+    position: relative;
+    flex: 1;
+    font-family: "Glancyr-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
